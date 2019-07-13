@@ -4,7 +4,7 @@ Example description
 The PMU example demonstrates power state change using the RTC timer to wake-up 
 the MCU from the following low power states, SLEEP, DEEP SLEEP, POWER DOWN, 
 and DEEP POWER DOWN.
-The wakeup timer is configurable, allowing the user to select the time delay
+The wakeup timer is configurable, allowing the user to select any time delay
 between power state changes. The chip is then placed into a low power mode and 
 will wakeup from the RTC timer event. PMU power modes tested are:
 MCU_SLEEP,
