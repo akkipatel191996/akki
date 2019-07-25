@@ -1,6 +1,6 @@
 Low Power (PMU) example
 
-Example description--
+Example description---
 The PMU example demonstrates power state change using the RTC timer to wake-up 
 the MCU from the following low power states, SLEEP, DEEP SLEEP, POWER DOWN, 
 and DEEP POWER DOWN.
