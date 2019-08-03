@@ -1,5 +1,5 @@
 /*
- * @brief PMU examples
+ * @brief PMU example
  *
  * @note
  * Copyright(C) NXP Semiconductors, 2013
