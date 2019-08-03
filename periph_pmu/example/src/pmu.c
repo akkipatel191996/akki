@@ -1,4 +1,4 @@
-/*
+*/*
  * @brief PMU example
  *
  * @note
